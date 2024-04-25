@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Real-time Chat App",
+    "imageSrc": "projects/chat-app.png",
+    "description": "Developed Real-time Application using MERN, Socket.io",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://chat-app-3ed1.onrender.com/",
+    "source": "https://github.com/BNSahana/ChatApp-MERN"
+  },
+  {
+    "title": "Nest Home Rental App",
+    "imageSrc": "projects/nest.png",
+    "description": "Designed and Developed Real-time Application using MERN",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "demo": "https://dream-house-rent.vercel.app/",
+    "source": "https://github.com/BNSahana/mern-nest-rental-app-frontend"
+  },
+  {
+    "title": "Pocket Notes App",
+    "imageSrc": "projects/notes-app.png",
+    "description": "Developed Notes Application using React which performs CRUD",
+    "skills": ["HTML","CSS","React"],
+    "demo": "https://notes-app-ochre-nine.vercel.app",
+    "source": "https://github.com/BNSahana/notes__app"
+  }
+  ,
+  {
+    "title": "Super App",
+    "imageSrc": "projects/super-app.png",
+    "description": "Impletemented a variety of entertainment genres fetched through APIs.",
+    "skills": ["HTML","CSS","React"],
+    "demo": "https://react-super-app-jgvm.vercel.app/",
+    "source": "https://github.com/BNSahana/super-app-using-react"
+  },
+  {
+    "title": "Rock Scissors Paper Game",
+    "imageSrc": "projects/RSP.png",
+    "description": "Implemented game logic for player and computer selections using React",
+    "skills": ["HTML","CSS","React"],
+    "demo": "https://rock-scissors-paper-game-five.vercel.app",
+    "source": "https://github.com/BNSahana/Rock_Scissors_Paper_Game"
+  }
+]

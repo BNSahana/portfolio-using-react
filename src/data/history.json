@@ -1,0 +1,30 @@
+[
+  {
+    "role": "MERN Intern",
+    "organisation": "Cuvette",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on MERN Full Stack", "Implementing Projects using MERN"],
+    "imageSrc": "history/cuvette.png"
+  },
+  {
+    "role": "Associate Software Engineering",
+    "organisation": "Sasken Technologies",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on frontend library React", 
+    "Helped create reusable UI components"],
+    "imageSrc": "history/sasken.png"
+  },
+  {
+    "role": "Frontend Intern",
+    "organisation": "Nexenstial LLP",
+    "startDate": "Mar, 2020",
+    "endDate": "May, 2020",
+    "experiences": [
+      "Worked on frontend development",
+      "Developed UI with modern JS frameworks, HTML and CSS"
+    ],
+    "imageSrc": "history/nexenstial.png"
+  }
+]
